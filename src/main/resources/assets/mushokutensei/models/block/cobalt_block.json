@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mushokutensei:block/cobalt_block"
+  }
+}
